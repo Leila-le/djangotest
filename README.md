@@ -1,0 +1,2 @@
+# djangotest
+somethingi of django
